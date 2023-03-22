@@ -24,3 +24,5 @@ Click the Search button to see the available matching albums.  Click on an album
 
 ![photo](https://raw.githubusercontent.com/retired-guy/Allmusic-WiiM-Tidal-Qobuz-Deezer/main/Screenshot%202023-03-22%206.53.28%20AM.png)
 
+Install the wiim-allmusic-embed extension the same way (for any service) if you want the small WiiM viewer at the bottom right of the Allmusic.com album page.
+
