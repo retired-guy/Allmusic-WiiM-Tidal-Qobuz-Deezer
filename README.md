@@ -22,7 +22,7 @@ On any album page, you should see the Search (Tidal/Qobuz/Deezer) button with th
 
 Click the Search button to see the available matching albums.  Click on an album to play it on your WiiM.
 
-![photo](https://raw.githubusercontent.com/retired-guy/Allmusic-WiiM-Tidal-Qobuz-Deezer/main/Screenshot%202023-03-22%206.53.28%20AM.png)
+![photo](https://raw.githubusercontent.com/retired-guy/Allmusic-WiiM-Tidal-Qobuz-Deezer/main/Screenshot%202024-02-18%2010.32.46%20AM.png)
 
 Install the wiim-allmusic-embed extension the same way (for any service) if you want the small WiiM viewer at the bottom right of the Allmusic.com album page.
 
