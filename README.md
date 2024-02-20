@@ -12,7 +12,7 @@ Click on Load Unpacked, navigate to the directory where you unzipped the extensi
 Click on the Details button for the extention, then Extension Options
 
 Fill in the IP address for your WiiM player, click out of the text box and make sure you see a green check
-![photo](https://raw.githubusercontent.com/retired-guy/Allmusic-WiiM-Tidal-Qobuz-Deezer/main/Screenshot%202023-03-17%209.48.59%20AM.png)
+![photo](https://raw.githubusercontent.com/retired-guy/Allmusic-WiiM-Tidal-Qobuz-Deezer/main/Screenshot%202024-02-19%204.03.07%20PM.png)
 
 Back on the main chrome://extensions/ screen, make sure the extension is enabled, and click the refresh circle once or twice to pull init data from your WiiM
 
