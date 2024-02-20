@@ -18,7 +18,7 @@ Back on the main chrome://extensions/ screen, make sure the extension is enabled
 
 Navigate to allmusic.com 
 
-On any album page, you should see the Search (Tidal/Qobuz/Deezer) button with the input box pre-filled.  
+On any album page, you should see the Search (Tidal/Qobuz/Deezer) button.  The album name is editable if needed to aid search.  
 
 Click the Search button to see the available matching albums.  Click on an album to play it on your WiiM.
 
