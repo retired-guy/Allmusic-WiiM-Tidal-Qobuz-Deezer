@@ -26,3 +26,5 @@ Click the Search button to see the available matching albums.  Click on an album
 
 Install the wiim-allmusic-embed extension the same way (for any service) if you want the small WiiM viewer at the bottom right of the Allmusic.com album page.
 
+![photo](https://raw.githubusercontent.com/retired-guy/Allmusic-WiiM-Tidal-Qobuz-Deezer/main/hipOzrMdQc2YGTasV-DkkQ.jpg)
+
